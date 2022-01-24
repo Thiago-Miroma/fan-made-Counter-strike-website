@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url('assets/cs-fundo.jpg');
+    background-size: cover;
+    position: absolute;
+}
+
+
+#logo-container{
+    text-align: center;
+    background-color: gray;
+    opacity: 0.5;
+    max-width: 200px;
+}
+
+
+#menu-lateral{
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+    font-size: 20px;
+}
+
+#menu-lateral ul{
+    list-style: none;
+    background-color: #464a4e;
+    position: relative;
+    height: 645px;
+}
+
+#menu-lateral li{
+    display: block;
+    width: 200px;
+
+    
+}
+
+#menu-lateral li a{
+    display: block;
+    text-decoration: none;
+    color: #86888D;
+    padding: 25px 15px;
+}
+
+#menu-lateral li :hover{
+    color: white;
+    background-color: gray;
+}
+
+
+#formulario{
+    font-size: 15px;
+    color: #86888D;
+    background-color: #464A4E;
+
+
+    padding: 30px;
+    max-width: 200px;
+    height: 300px;
+    position: relative;
+    float: right;
+    margin-left: 830px;
+    margin-top: 250px;
+}
+
+#formulario input{
+    margin-top: 20px;
+    padding: 5px;
+    width: 100%;
+}
+
+form{
+    overflow: hidden;
+}
+
+
+
