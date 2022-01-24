@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url('assets/cs-fundo.jpg');
+    background-image: url('cs-fundo.jpg');
     background-size: cover;
     position: absolute;
 }
